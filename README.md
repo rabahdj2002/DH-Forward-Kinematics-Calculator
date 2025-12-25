@@ -25,7 +25,8 @@ Click my name to know more about me :)
 ```json
 {
 "1": ["theta1", "0", "a1", "pi/2"],
-"2": ["theta2", "0", "a2", "0"]
+"2": ["theta2", "0", "a2", "0"],
+...
 }
 ```
 
@@ -34,12 +35,12 @@ Click my name to know more about me :)
 
 ## 📐 Supported Angles
 
-| Input    | Result     |
-|----------|------------|
-| `theta1` | θ₁ symbol  |
-| `alpha1` | α₁ symbol  |
-| `pi/2`   | π/2        |
-| `0`      | 0          |
+| Input           | Result               |
+|-----------------|----------------------|
+| `theta1, 2 ...` | θ₁ or θ₂ ... symbol  |
+| `alpha1, 2 ...` | α₁ or α₂ ... symbol  |
+| `pi/2`          | π/2                  |
+| `0`             | 0                    |
 
 ## 🎓 Perfect For
 
