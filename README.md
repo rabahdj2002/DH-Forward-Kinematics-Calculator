@@ -17,9 +17,11 @@ Click my name to know more about me :)
 
 ## 🚀 Quick Start
 
-1. **Install**: `pip install sympy`
+1. **Install**: `pip install -r requirements.txt`
 2. **Create `conf.json`** with DH parameters
 3. **Run**: `python dh_calculator.py`
+
+Tests: `pip install -r requirements-dev.txt && pytest -q`
 
 ## 📐 Input Format Example (`conf.json`)
 ```json
